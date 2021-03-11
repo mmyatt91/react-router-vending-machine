@@ -1,3 +1,9 @@
+# React Router Vending Machine
+
+Springboard Software Engineering Track Unit #41.1: React Router Intro
+
+Subunit Exercise: Build a vending machine app using React-Router.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
